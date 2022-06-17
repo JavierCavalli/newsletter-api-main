@@ -16,4 +16,4 @@ https://calm-retreat-08283.herokuapp.com/
 
 ## How to run:
 
-Run with hyper, use: touch app.js (open on localhost:3000)
+Run with hyper, use: node app.js (open on localhost:3000)
