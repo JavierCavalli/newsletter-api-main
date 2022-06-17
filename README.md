@@ -7,6 +7,8 @@ Small newsletter app with mailchimp api
 1. HTML 
 2. BOOTSTRAP
 3. MAIL CHIMP
+4. EXPRESS
+5. BODY-PARSER
 
 ## Demo: 
 
