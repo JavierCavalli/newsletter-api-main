@@ -10,10 +10,6 @@ Small newsletter app with mailchimp api
 4. EXPRESS
 5. BODY-PARSER
 
-## Demo: 
-
-https://calm-retreat-08283.herokuapp.com/
-
 ![image](https://i.ibb.co/09FsxR1/newsletter.png)
 
 ## How to run:
