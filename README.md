@@ -14,4 +14,4 @@ Un newsletter creado con la api de Mail Chimp.
 
 ## How to run:
 
-Run with hyper, use: node app.js (open on localhost:3000)
+Para correrla desde la terminal usando node: node app.js (en el localhost:3000)
