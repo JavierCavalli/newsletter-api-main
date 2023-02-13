@@ -1,6 +1,6 @@
 ## About this project:
 
-Small newsletter app with mailchimp api 
+Un newsletter creado con la api de Mail Chimp.
 
 ## Built With: 
 
